@@ -47,8 +47,6 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, AnimActivity::class.java)
             startActivity(intent)
 
-
-
         }
     }
 }
